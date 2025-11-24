@@ -1,92 +1,67 @@
-Python Mini-Projects Collection
+# Python Mini-Projects Portfolio
 
-A curated collection of 10 practical Python mini-projects that demonstrate clean logic, automation, data handling, and problem-solving.
-These scripts reflect the kind of tasks freelancers regularly do — API calls, file processing, data extraction, utilities, and more.
+Welcome to my Python mini-projects portfolio! This repository contains 10 practical Python scripts that demonstrate intermediate-level skills in automation, data processing, APIs, and problem-solving. Each project is designed to be clean, functional, and reflective of real-world freelance tasks.
 
-This repository serves as a portfolio showcase for intermediate Python skills, focusing on clarity, readability, and real-world usefulness.
+---
 
-🔥 What's Inside
+## 🔥 Projects Included
 
-Each project lives in its own folder with:
-✔ Fully functional Python script
-✔ A project-specific README
-✔ Clean, easy-to-understand logic
-✔ No unnecessary complexity
+1. **Web Scraper** – Extract product prices from websites using BeautifulSoup.  
+2. **JSON to CSV Converter** – Convert structured JSON data into CSV files for analysis.  
+3. **Telegram Bot** – A simple echo bot that replies to messages via Telegram API.  
+4. **PDF Text Extractor** – Extract all text from PDF files using PyMuPDF.  
+5. **Weather API Fetcher** – Retrieve live weather data from Open-Meteo API.  
+6. **CSV Duplicate Remover** – Clean CSV files by removing duplicate rows using pandas.  
+7. **Email Automation Script** – Send automated emails via SMTP.  
+8. **File Organizer** – Organize files into folders based on file extensions.  
+9. **FastAPI Mini App** – A small API demonstrating endpoints and dynamic path parameters.  
+10. **Password Strength Checker** – Evaluate password strength using regex rules.
 
-📂 Project List
+---
 
-CSV Cleaner – Automatically cleans messy CSV files
+## 💻 Skills Demonstrated
 
-Currency Converter (API) – Converts currencies using real-time API data
+- Python 3 fundamentals and clean coding practices  
+- API requests and JSON parsing  
+- Data handling with CSV, JSON, and Pandas  
+- File automation and organization  
+- Regex for text validation and security  
+- Basic web scraping techniques  
+- FastAPI backend framework usage  
+- Script organization and modular project structure
 
-Password Strength Checker – Evaluates passwords using rules & regex
+---
 
-Weather Fetcher – Gets live weather data from an online API
+## 🔧 Tech Stack
 
-Text Summarizer – Generates a short summary of long text
+- Python 3  
+- `requests`  
+- `BeautifulSoup` (`bs4`)  
+- `pandas`  
+- `fitz` (PyMuPDF)  
+- `FastAPI`  
+- Standard library modules (`os`, `shutil`, `csv`, `json`, `re`, `smtplib`)
 
-File Organizer – Organizes files into folders by type
+---
 
-JSON Formatter – Beautifies and validates JSON
+## 📌 Purpose of This Repository
 
-Timer/Stopwatch Tool – Minimal command-line timer
+- Serve as a **portfolio for freelancing projects**  
+- Showcase practical Python skills for clients  
+- Demonstrate problem-solving and intermediate coding capabilities  
+- Track personal growth and logic development
 
-Dictionary Lookup Tool – Looks up word definitions
+---
 
-Basic Web Scraper – Extracts data from a webpage
-(Or whatever exact 10 that you want — I can adjust the list to match your ZIP file.)
+## 📞 Contact
 
-✨ Skills Demonstrated
+If you would like to request a custom script, bot, automation tool, or data-processing solution:  
+- **Email:** [thetomamabolo16@gmail.com]
+- **GitHub:** [https://github.com/YourUsername](https://github.com/Theto123)
 
-Clean and readable Python code
+---
 
-API requests (GET, JSON parsing)
+## ⭐ Support
 
-Data cleaning & formatting
+If you find this repository useful, feel free to **star it ⭐** to support and help others discover it!
 
-Regex & text processing
-
-File handling (CSV, TXT, JSON)
-
-Automation scripts
-
-Error handling & input validation
-
-Beginner → Intermediate project structure
-
-🔧 Tech Stack
-
-Python 3
-
-requests
-
-json
-
-csv
-
-re
-
-Standard library tooling
-(No unnecessary frameworks.)
-
-📌 Why This Repo Exists
-
-Created as a portfolio to:
-
-Demonstrate intermediate Python skills
-
-Show clients real working scripts
-
-Build a strong freelancing presence on Upwork/Fiverr
-
-Track personal progress
-
-📞 Contact
-
-If you'd like a script, bot, automation tool, or data-processing solution built:
-Email: thetomamabolo16@gmail.com
-
-GitHub: https://github.com/Theto123
-⭐ Support
-
-If you found this repo useful, feel free to star it ⭐ — it helps others discover it!
