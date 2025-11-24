@@ -57,7 +57,7 @@ Welcome to my Python mini-projects portfolio! This repository contains 10 practi
 
 If you would like to request a custom script, bot, automation tool, or data-processing solution:  
 - **Email:** [thetomamabolo16@gmail.com]
-- **GitHub:** [https://github.com/YourUsername](https://github.com/Theto123)
+- **GitHub:** [https://github.com/Theto123]
 
 ---
 
