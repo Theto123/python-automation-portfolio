@@ -1,10 +1,10 @@
-import fitz  # PyMuPDF
+import fitz
 import os
 from datetime import datetime
 
 INPUT_FOLDER = "pdfs"
 OUTPUT_FOLDER = "extracted_texts"
-KEYWORDS = ["Python", "API"]  # optional: only extract pages containing these keywords
+KEYWORDS = ["Python", "API"] 
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
