@@ -1,7 +1,6 @@
 # Python Mini-Projects Portfolio
 
-Welcome to my Python mini-projects portfolio! This repository contains 10 practical Python scripts that demonstrate intermediate-level skills in automation, data processing, APIs, and problem-solving. Each project is designed to be clean, functional, and reflective of real-world freelance tasks.
-
+Welcome to my Python mini-projects portfolio! This repository contains 10 practical Python scripts that demonstrate skills in automation, data processing, APIs, and problem-solving. Each project is designed to be clean, functional, and reflective of real-world freelance tasks.
 ---
 
 ## 🔥 Projects Included
